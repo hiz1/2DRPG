@@ -1,0 +1,35 @@
+[
+  {
+  	"graphic" : {
+  		"charachip":"People2-1.png",
+  		"xi"       :1,
+  		"yi"       :1
+  	},
+  	"x"      : 100,
+  	"y"      : 100,
+  	"move" : "move",
+    "event"  : "event1"
+  },
+  {
+  	"graphic" : {
+  		"charachip":"People2-1.png",
+  		"xi"       :0,
+  		"yi"       :0
+  	},
+  	"x"      : 200,
+  	"y"      : 300,
+  	"move" : "move2",
+    "event"  : "event2"
+  },
+  {
+  	"graphic" : {
+  		"charachip":"People2-2.png",
+  		"xi"       :1,
+  		"yi"       :0
+  	},
+  	"x"      : 300,
+  	"y"      : 00,
+  	"move" : "move3",
+    "event"  : "event3"
+  }
+]

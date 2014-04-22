@@ -1,0 +1,2423 @@
+# depslib dependency file v1.0
+1394283110 source:c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\src\json_reader.cpp
+	<json/reader.h>
+	<json/value.h>
+	"json_tool.h"
+	<utility>
+	<cstdio>
+	<cassert>
+	<cstring>
+	<iostream>
+	<stdexcept>
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\include\json\reader.h
+	"features.h"
+	"value.h"
+	<deque>
+	<stack>
+	<string>
+	<iostream>
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\include\json\features.h
+	"forwards.h"
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\include\json\forwards.h
+	"config.h"
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\include\json\config.h
+	<cpptl/config.h>
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\include\json\value.h
+	"forwards.h"
+	<string>
+	<vector>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\src\json_tool.h
+
+1394283110 source:c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\src\json_value.cpp
+	<json/value.h>
+	<json/writer.h>
+	"json_batchallocator.h"
+	<iostream>
+	<utility>
+	<stdexcept>
+	<cstring>
+	<cassert>
+	<cpptl/conststring.h>
+	<cstddef>
+	"json_internalarray.inl"
+	"json_internalmap.inl"
+	"json_valueiterator.inl"
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\include\json\writer.h
+	"value.h"
+	<vector>
+	<string>
+	<iostream>
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\src\json_batchallocator.h
+	<stdlib.h>
+	<assert.h>
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\src\json_internalarray.inl
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\src\json_internalmap.inl
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\src\json_valueiterator.inl
+
+1394283110 source:c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\src\json_writer.cpp
+	<json/writer.h>
+	"json_tool.h"
+	<utility>
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<sstream>
+	<iomanip>
+
+1394283110 source:c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\src\ofxjsonelement.cpp
+	"ofxJSONElement.h"
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\src\ofxjsonelement.h
+	<string>
+	<json/json.h>
+	"ofLog.h"
+	"ofURLFileLoader.h"
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\include\json\json.h
+	"autolink.h"
+	"value.h"
+	"reader.h"
+	"writer.h"
+	"features.h"
+
+1394283110 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxjson\libs\jsoncpp\include\json\autolink.h
+	"config.h"
+	<cpptl/cpptl_autolink.h>
+	"autolink.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\utils\oflog.h
+	"ofConstants.h"
+	"ofFileUtils.h"
+	"ofTypes.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\utils\ofconstants.h
+	<stdint.h>
+	<TargetConditionals.h>
+	<windows.h>
+	"GL\glew.h"
+	"GL\wglew.h"
+	"glu.h"
+	<stdint.h>
+	<functional>
+	<unistd.h>
+	"GL/glew.h"
+	<OpenGL/gl.h>
+	<ApplicationServices/ApplicationServices.h>
+	<unistd.h>
+	"bcm_host.h"
+	"GLES/gl.h"
+	"GLES/glext.h"
+	"GLES2/gl2.h"
+	"GLES2/gl2ext.h"
+	"EGL/egl.h"
+	"EGL/eglext.h"
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<typeinfo>
+	<unistd.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	"tesselator.h"
+	<cstdlib>
+	<cstdio>
+	<cstdarg>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<string>
+	<iostream>
+	<vector>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<fstream>
+	<algorithm>
+	<cfloat>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\glew\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\glew\include\gl\wglew.h
+	<windows.h>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\glu\include\glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\tess2\include\tesselator.h
+	<TargetConditionals.h>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\utils\offileutils.h
+	"ofConstants.h"
+	"Poco/File.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\file.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+	<vector>
+	"File_WINCE.h"
+	"Poco/File_WIN32U.h"
+	"Poco/File_WIN32.h"
+	"Poco/File_VX.h"
+	"Poco/File_UNIX.h"
+	"Poco/File_VMS.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\foundation.h
+	"Poco/Config.h"
+	"Poco/Platform.h"
+	"Poco/Platform_WIN32.h"
+	"Poco/Platform_VMS.h"
+	"Poco/Platform_VX.h"
+	"Poco/Platform_POSIX.h"
+	"Poco/Bugcheck.h"
+	"Poco/Types.h"
+	<string>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\config.h
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\platform.h
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\platform_win32.h
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\platform_vms.h
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\platform_vx.h
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\platform_posix.h
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\bugcheck.h
+	"Poco/Foundation.h"
+	<string>
+	<iostream>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\types.h
+	"Poco/Foundation.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\timestamp.h
+	"Poco/Foundation.h"
+	<ctime>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\file_wince.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\file_win32u.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\file_win32.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\file_vx.h
+	"Poco/Foundation.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\file_unix.h
+	"Poco/Foundation.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\file_vms.h
+	"Poco/Foundation.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\types\oftypes.h
+	"ofConstants.h"
+	"ofColor.h"
+	<memory>
+	<tr1/memory>
+	"Poco/Mutex.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\types\ofcolor.h
+	<limits>
+	"ofMath.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\math\ofmath.h
+	"ofPoint.h"
+	"ofConstants.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\types\ofpoint.h
+	"ofVec3f.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\math\ofvec3f.h
+	"ofVec2f.h"
+	"ofVec4f.h"
+	"ofConstants.h"
+	<cmath>
+	<iostream>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\math\ofvec2f.h
+	"ofConstants.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\math\ofvec4f.h
+	"ofConstants.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\mutex.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/ScopedLock.h"
+	"Poco/Mutex_WINCE.h"
+	"Poco/Mutex_WIN32.h"
+	"Poco/Mutex_VX.h"
+	"Poco/Mutex_POSIX.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\exception.h
+	"Poco/Foundation.h"
+	<stdexcept>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\scopedlock.h
+	"Poco/Foundation.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\mutex_wince.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\unwindows.h
+	<windows.h>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\mutex_win32.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\mutex_vx.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<semLib.h>
+	<errno.h>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\mutex_posix.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<pthread.h>
+	<errno.h>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\utils\ofurlfileloader.h
+	<deque>
+	<queue>
+	"ofThread.h"
+	"ofEvents.h"
+	"ofFileUtils.h"
+	"Poco/Condition.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\utils\ofthread.h
+	"ofConstants.h"
+	"ofTypes.h"
+	"Poco/Thread.h"
+	"Poco/Runnable.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\thread.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/Thread_WINCE.h"
+	"Poco/Thread_WIN32.h"
+	"Poco/Thread_VX.h"
+	"Poco/Thread_POSIX.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\thread_wince.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/UnWindows.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\runnable.h
+	"Poco/Foundation.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\thread_win32.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/UnWindows.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\thread_vx.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/SignalHandler.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	<taskLib.h>
+	<taskVarLib.h>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\signalhandler.h
+	"Poco/Foundation.h"
+	<vector>
+	<setjmp.h>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\event.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/Event_WIN32.h"
+	"Poco/Event_VX.h"
+	"Poco/Event_POSIX.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\event_win32.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\event_vx.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<semLib.h>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\event_posix.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<pthread.h>
+	<errno.h>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\refcountedobject.h
+	"Poco/Foundation.h"
+	"Poco/AtomicCounter.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\atomiccounter.h
+	"Poco/Foundation.h"
+	"Poco/UnWindows.h"
+	<libkern/OSAtomic.h>
+	"Poco/Mutex.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\autoptr.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<algorithm>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\thread_posix.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/SignalHandler.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	<pthread.h>
+	<limits.h>
+	<sys/select.h>
+	<errno.h>
+	<cstring>
+
+1395372079 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\events\ofevents.h
+	"ofConstants.h"
+	"ofPoint.h"
+	"ofEventUtils.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\events\ofeventutils.h
+	"ofConstants.h"
+	"Poco/PriorityEvent.h"
+	"Poco/PriorityDelegate.h"
+	"ofDelegate.h"
+	<stdio.h>
+	<stdlib.h>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\priorityevent.h
+	"Poco/AbstractEvent.h"
+	"Poco/PriorityStrategy.h"
+	"Poco/AbstractPriorityDelegate.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\abstractevent.h
+	"Poco/Foundation.h"
+	"Poco/SingletonHolder.h"
+	"Poco/SharedPtr.h"
+	"Poco/ActiveResult.h"
+	"Poco/ActiveMethod.h"
+	"Poco/Mutex.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\singletonholder.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\sharedptr.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/AtomicCounter.h"
+	<algorithm>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\activeresult.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/Exception.h"
+	<algorithm>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\activemethod.h
+	"Poco/Foundation.h"
+	"Poco/ActiveResult.h"
+	"Poco/ActiveRunnable.h"
+	"Poco/ActiveStarter.h"
+	"Poco/AutoPtr.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\activerunnable.h
+	"Poco/Foundation.h"
+	"Poco/ActiveResult.h"
+	"Poco/Runnable.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	"Poco/Exception.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\activestarter.h
+	"Poco/Foundation.h"
+	"Poco/ThreadPool.h"
+	"Poco/ActiveRunnable.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\threadpool.h
+	"Poco/Foundation.h"
+	"Poco/Thread.h"
+	"Poco/Mutex.h"
+	<vector>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\prioritystrategy.h
+	"Poco/NotificationStrategy.h"
+	"Poco/SharedPtr.h"
+	<vector>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\notificationstrategy.h
+	"Poco/Foundation.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\abstractprioritydelegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\abstractdelegate.h
+	"Poco/Foundation.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\prioritydelegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractPriorityDelegate.h"
+	"Poco/PriorityExpire.h"
+	"Poco/FunctionPriorityDelegate.h"
+	"Poco/Mutex.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\priorityexpire.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+	"Poco/AbstractPriorityDelegate.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\functionprioritydelegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractPriorityDelegate.h"
+	"Poco/Mutex.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\events\ofdelegate.h
+	"Poco/AbstractPriorityDelegate.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\condition.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/ScopedUnlock.h"
+	"Poco/Event.h"
+	"Poco/Exception.h"
+	<deque>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\scopedunlock.h
+	"Poco/Foundation.h"
+
+1376262764 source:c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxxmlsettings\libs\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1376262764 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxxmlsettings\libs\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1376262764 source:c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxxmlsettings\libs\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1376262764 source:c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxxmlsettings\libs\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1376262764 source:c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxxmlsettings\src\ofxxmlsettings.cpp
+	"ofxXmlSettings.h"
+	<vector>
+	<string>
+	<iostream>
+
+1376262764 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxxmlsettings\src\ofxxmlsettings.h
+	"ofMain.h"
+	<string.h>
+	"../libs/tinyxml.h"
+	"tinyxml.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\ofmain.h
+	"ofConstants.h"
+	"ofFileUtils.h"
+	"ofLog.h"
+	"ofSystemUtils.h"
+	"ofThread.h"
+	"ofURLFileLoader.h"
+	"ofUtils.h"
+	"ofBaseTypes.h"
+	"ofTypes.h"
+	"ofColor.h"
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofXml.h"
+	"ofParameter.h"
+	"ofParameterGroup.h"
+	"ofMath.h"
+	"ofVectorMath.h"
+	"ofSerial.h"
+	"ofArduino.h"
+	"ofFbo.h"
+	"ofGLRenderer.h"
+	"ofGLUtils.h"
+	"ofLight.h"
+	"ofMaterial.h"
+	"ofShader.h"
+	"ofTexture.h"
+	"ofVbo.h"
+	"ofVboMesh.h"
+	"ofGLProgrammableRenderer.h"
+	"ofGLRenderer.h"
+	"ofCairoRenderer.h"
+	"ofGraphics.h"
+	"ofImage.h"
+	"ofPath.h"
+	"ofPixels.h"
+	"ofPolyline.h"
+	"ofRendererCollection.h"
+	"ofTessellator.h"
+	"ofTrueTypeFont.h"
+	"ofBaseApp.h"
+	"ofAppRunner.h"
+	"ofSoundStream.h"
+	"ofSoundPlayer.h"
+	"ofVideoGrabber.h"
+	"ofVideoPlayer.h"
+	"ofEvents.h"
+	"of3dUtils.h"
+	"ofCamera.h"
+	"ofEasyCam.h"
+	"ofMesh.h"
+	"ofNode.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\utils\ofsystemutils.h
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\utils\ofutils.h
+	"ofConstants.h"
+	<bitset>
+	"ofLog.h"
+	<shellapi.h>
+	"Poco/Path.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\path.h
+	"Poco/Foundation.h"
+	<vector>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\types\ofbasetypes.h
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofConstants.h"
+	"ofColor.h"
+	"ofMesh.h"
+	"ofPixels.h"
+	"ofMatrix4x4.h"
+	"ofTypes.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\types\ofrectangle.h
+	"ofConstants.h"
+	"ofPoint.h"
+	"ofLog.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\3d\ofmesh.h
+	"ofVec3f.h"
+	"ofVec2f.h"
+	"ofColor.h"
+	"ofUtils.h"
+	"ofConstants.h"
+	"ofGLUtils.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\gl\ofglutils.h
+	"ofConstants.h"
+	"ofTypes.h"
+	"ofPixels.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\graphics\ofpixels.h
+	"ofConstants.h"
+	"ofUtils.h"
+	"ofColor.h"
+	"ofMath.h"
+	<limits>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\math\ofmatrix4x4.h
+	"ofVec3f.h"
+	"ofVec4f.h"
+	"ofQuaternion.h"
+	"ofConstants.h"
+	<cmath>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\math\ofquaternion.h
+	"ofConstants.h"
+	"ofVec3f.h"
+	"ofVec4f.h"
+	<cmath>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\utils\ofxml.h
+	"ofMain.h"
+	<numeric>
+	<Poco/DOM/Document.h>
+	<Poco/DOM/DocumentFragment.h>
+	<Poco/DOM/Element.h>
+	<Poco/DOM/DOMParser.h>
+	<Poco/DOM/DOMException.h>
+	<Poco/SAX/SAXException.h>
+	<Poco/XML/XMLString.h>
+	<Poco/XML/XMLWriter.h>
+	<Poco/DOM/DOMParser.h>
+	<Poco/DOM/DOMWriter.h>
+	<Poco/DOM/Document.h>
+	<Poco/DOM/Attr.h>
+	<Poco/DOM/Node.h>
+	<Poco/DOM/Text.h>
+	<Poco/DOM/NodeIterator.h>
+	<Poco/DOM/NodeFilter.h>
+	<Poco/DOM/NamedNodeMap.h>
+	<Poco/DOM/ChildNodesList.h>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\document.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/AbstractContainerNode.h"
+	"Poco/DOM/DocumentEvent.h"
+	"Poco/DOM/Element.h"
+	"Poco/XML/XMLString.h"
+	"Poco/XML/NamePool.h"
+	"Poco/AutoReleasePool.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\xml\xml.h
+	"Poco/Foundation.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\abstractcontainernode.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/AbstractNode.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\abstractnode.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/Node.h"
+	"Poco/DOM/MutationEvent.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\node.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/EventTarget.h"
+	"Poco/XML/XMLString.h"
+	"Poco/SAX/NamespaceSupport.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\eventtarget.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/DOMObject.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\domobject.h
+	"Poco/XML/XML.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\xml\xmlstring.h
+	"Poco/XML/XML.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\sax\namespacesupport.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLString.h"
+	<set>
+	<map>
+	<vector>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\mutationevent.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/Event.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\event.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLString.h"
+	"Poco/DOM/DOMObject.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\documentevent.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\element.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/AbstractContainerNode.h"
+	"Poco/XML/Name.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\xml\name.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\xml\namepool.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLString.h"
+	"Poco/XML/Name.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\autoreleasepool.h
+	"Poco/Foundation.h"
+	<list>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\documentfragment.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/AbstractContainerNode.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\domparser.h
+	"Poco/XML/XML.h"
+	"Poco/SAX/SAXParser.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\sax\saxparser.h
+	"Poco/XML/XML.h"
+	"Poco/SAX/XMLReader.h"
+	"Poco/XML/ParserEngine.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\sax\xmlreader.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\xml\parserengine.h
+	"Poco/XML/XML.h"
+	<expat.h>
+	"Poco/XML/expat.h"
+	"Poco/XML/XMLString.h"
+	"Poco/XML/XMLStream.h"
+	"Poco/SAX/Locator.h"
+	"Poco/TextEncoding.h"
+	<map>
+	<vector>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\xml\expat.h
+	<stdlib.h>
+	"expat_external.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\xml\expat_external.h
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\xml\xmlstream.h
+	"Poco/XML/XML.h"
+	<istream>
+	<ostream>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\sax\locator.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\textencoding.h
+	"Poco/Foundation.h"
+	"Poco/SharedPtr.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\domexception.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLException.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\xml\xmlexception.h
+	"Poco/XML/XML.h"
+	"Poco/Exception.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\sax\saxexception.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLException.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\xml\xmlwriter.h
+	"Poco/XML/XML.h"
+	"Poco/SAX/ContentHandler.h"
+	"Poco/SAX/LexicalHandler.h"
+	"Poco/SAX/DTDHandler.h"
+	"Poco/SAX/NamespaceSupport.h"
+	"Poco/XML/XMLString.h"
+	"Poco/XML/XMLStream.h"
+	"Poco/XML/Name.h"
+	"Poco/TextEncoding.h"
+	"Poco/StreamConverter.h"
+	<vector>
+	<map>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\sax\contenthandler.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\sax\lexicalhandler.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\sax\dtdhandler.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\streamconverter.h
+	"Poco/Foundation.h"
+	"Poco/TextEncoding.h"
+	"Poco/UnbufferedStreamBuf.h"
+	<istream>
+	<ostream>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\unbufferedstreambuf.h
+	"Poco/Foundation.h"
+	"Poco/StreamUtil.h"
+	<streambuf>
+	<iosfwd>
+	<ios>
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\streamutil.h
+	"Poco/Foundation.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\domwriter.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLString.h"
+	"Poco/XML/XMLStream.h"
+	"Poco/TextEncoding.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\attr.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/AbstractNode.h"
+	"Poco/DOM/Element.h"
+	"Poco/XML/Name.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\text.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/CharacterData.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\characterdata.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/AbstractNode.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\nodeiterator.h
+	"Poco/XML/XML.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\nodefilter.h
+	"Poco/XML/XML.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\namednodemap.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/DOMObject.h"
+	"Poco/XML/XMLString.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\childnodeslist.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/NodeList.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\dom\nodelist.h
+	"Poco/XML/XML.h"
+	"Poco/DOM/DOMObject.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\types\ofparameter.h
+	"ofEvents.h"
+	"ofTypes.h"
+	"ofUtils.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\types\ofparametergroup.h
+	<map>
+	"Poco/Any.h"
+	"ofConstants.h"
+	"ofLog.h"
+	"ofParameter.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\any.h
+	"Poco/Exception.h"
+	<algorithm>
+	<typeinfo>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\math\ofvectormath.h
+	"ofVec2f.h"
+	"ofVec3f.h"
+	"ofVec4f.h"
+	"ofMatrix3x3.h"
+	"ofMatrix4x4.h"
+	"ofQuaternion.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\math\ofmatrix3x3.h
+	"ofConstants.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\communication\ofserial.h
+	"ofConstants.h"
+	"ofTypes.h"
+	<termios.h>
+	<winbase.h>
+	<tchar.h>
+	<iostream>
+	<string.h>
+	<setupapi.h>
+	<regstr.h>
+	<winioctl.h>
+	<initguid.h>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\communication\ofarduino.h
+	<list>
+	<vector>
+	<string>
+	<iostream>
+	"ofEvents.h"
+	"ofSerial.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\gl\offbo.h
+	"ofTexture.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\gl\oftexture.h
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofBaseTypes.h"
+	"ofConstants.h"
+	"ofVboMesh.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\gl\ofvbomesh.h
+	"ofMesh.h"
+	"ofVbo.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\gl\ofvbo.h
+	"ofConstants.h"
+	"ofVec3f.h"
+	"ofColor.h"
+	"ofUtils.h"
+	"ofMesh.h"
+	"ofGLUtils.h"
+	<map>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\gl\ofglrenderer.h
+	"ofBaseTypes.h"
+	"ofPolyline.h"
+	"ofMatrix4x4.h"
+	<stack>
+	"ofGraphics.h"
+	"ofMatrixStack.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\graphics\ofpolyline.h
+	"ofPoint.h"
+	"ofConstants.h"
+	<deque>
+	"ofRectangle.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\graphics\ofgraphics.h
+	"ofConstants.h"
+	"ofColor.h"
+	"ofPoint.h"
+	"ofMatrix4x4.h"
+	"ofRectangle.h"
+	"ofTypes.h"
+	"ofBaseTypes.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\utils\ofmatrixstack.h
+	<stack>
+	"ofConstants.h"
+	"ofRectangle.h"
+	"ofGraphics.h"
+	"ofMatrix4x4.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\gl\oflight.h
+	"ofNode.h"
+	"ofColor.h"
+	"of3dGraphics.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\3d\ofnode.h
+	"ofVectorMath.h"
+	"of3dUtils.h"
+	"ofGraphics.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\3d\of3dutils.h
+	"ofVectorMath.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\graphics\of3dgraphics.h
+	"ofConstants.h"
+	"ofColor.h"
+	"ofPoint.h"
+	"ofMatrix4x4.h"
+	"ofRectangle.h"
+	"ofTypes.h"
+	"ofBaseTypes.h"
+	"ofGLRenderer.h"
+	"of3dPrimitives.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\3d\of3dprimitives.h
+	"ofVboMesh.h"
+	"ofRectangle.h"
+	"ofNode.h"
+	"ofTexture.h"
+	<map>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\gl\ofmaterial.h
+	"ofColor.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\gl\ofshader.h
+	"ofConstants.h"
+	"ofBaseTypes.h"
+	"ofTexture.h"
+	"ofMatrix4x4.h"
+	<map>
+	"ofAppBaseWindow.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\app\ofappbasewindow.h
+	"ofPoint.h"
+	"ofTypes.h"
+	<X11/Xlib.h>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\gl\ofglprogrammablerenderer.h
+	"ofBaseTypes.h"
+	"ofPolyline.h"
+	"ofMatrix4x4.h"
+	"ofShader.h"
+	"ofGraphics.h"
+	"ofMatrixStack.h"
+	<stack>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\graphics\ofcairorenderer.h
+	"cairo-features.h"
+	"cairo-pdf.h"
+	"cairo-svg.h"
+	"cairo.h"
+	<deque>
+	<stack>
+	"ofMatrix4x4.h"
+	"ofBaseTypes.h"
+	"ofPath.h"
+
+1376262782 c:\users\teru\of_v0.8.0_win_cb_release\libs\cairo\include\cairo\cairo-features.h
+
+1376262782 c:\users\teru\of_v0.8.0_win_cb_release\libs\cairo\include\cairo\cairo-pdf.h
+	"cairo.h"
+
+1376262782 c:\users\teru\of_v0.8.0_win_cb_release\libs\cairo\include\cairo\cairo.h
+	"cairo-version.h"
+	"cairo-features.h"
+	"cairo-deprecated.h"
+
+1376262782 c:\users\teru\of_v0.8.0_win_cb_release\libs\cairo\include\cairo\cairo-version.h
+
+1376262782 c:\users\teru\of_v0.8.0_win_cb_release\libs\cairo\include\cairo\cairo-deprecated.h
+
+1376262782 c:\users\teru\of_v0.8.0_win_cb_release\libs\cairo\include\cairo\cairo-svg.h
+	"cairo.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\graphics\ofpath.h
+	"ofConstants.h"
+	"ofPoint.h"
+	"ofColor.h"
+	"ofPolyline.h"
+	"ofBaseTypes.h"
+	"ofVboMesh.h"
+	"ofTessellator.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\graphics\oftessellator.h
+	"ofConstants.h"
+	"ofMesh.h"
+	"ofTypes.h"
+	"ofPolyline.h"
+	"tesselator.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\graphics\ofimage.h
+	"ofFileUtils.h"
+	"ofTexture.h"
+	"ofPixels.h"
+	"ofBaseTypes.h"
+	"ofConstants.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\graphics\ofrenderercollection.h
+	"ofBaseTypes.h"
+	"ofGLRenderer.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\graphics\oftruetypefont.h
+	<vector>
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofConstants.h"
+	"ofPath.h"
+	"ofTexture.h"
+	"ofMesh.h"
+
+1396266596 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\app\ofbaseapp.h
+	"ofPoint.h"
+	"ofEvents.h"
+	"ofBaseTypes.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\app\ofapprunner.h
+	"ofConstants.h"
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofTypes.h"
+	<X11/Xlib.h>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\sound\ofsoundstream.h
+	"ofConstants.h"
+	"ofBaseTypes.h"
+	"ofBaseApp.h"
+	"ofTypes.h"
+	"ofBaseSoundStream.h"
+	"ofRtAudioSoundStream.h"
+	"ofPASoundStream.h"
+	"ofxAndroidSoundStream.h"
+	"ofxiOSSoundStream.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\sound\ofbasesoundstream.h
+	"ofConstants.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\sound\ofrtaudiosoundstream.h
+	"ofConstants.h"
+	"ofBaseSoundStream.h"
+	"ofTypes.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\sound\ofpasoundstream.h
+	"ofConstants.h"
+	"ofBaseSoundStream.h"
+	"ofTypes.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\sound\ofsoundplayer.h
+	"ofConstants.h"
+	"ofTypes.h"
+	"ofBaseTypes.h"
+	"ofBaseSoundPlayer.h"
+	"ofQuicktimeSoundPlayer.h"
+	"ofFmodSoundPlayer.h"
+	"ofOpenALSoundPlayer.h"
+	"ofxiOSSoundPlayer.h"
+	"ofxAndroidSoundPlayer.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\sound\ofbasesoundplayer.h
+	"ofConstants.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\sound\offmodsoundplayer.h
+	"ofConstants.h"
+	"ofBaseSoundPlayer.h"
+	"fmod.h"
+	"fmod_errors.h"
+
+1376262784 c:\users\teru\of_v0.8.0_win_cb_release\libs\fmodex\include\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_memoryinfo.h"
+
+1376262784 c:\users\teru\of_v0.8.0_win_cb_release\libs\fmodex\include\fmod_codec.h
+
+1376262784 c:\users\teru\of_v0.8.0_win_cb_release\libs\fmodex\include\fmod_dsp.h
+
+1376262784 c:\users\teru\of_v0.8.0_win_cb_release\libs\fmodex\include\fmod_memoryinfo.h
+
+1376262784 c:\users\teru\of_v0.8.0_win_cb_release\libs\fmodex\include\fmod_errors.h
+	"fmod.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\sound\ofopenalsoundplayer.h
+	"ofConstants.h"
+	"ofBaseSoundPlayer.h"
+	"ofEvents.h"
+	"ofThread.h"
+	<OpenAL/al.h>
+	<OpenAL/alc.h>
+	<AL/al.h>
+	<AL/alc.h>
+	"kiss_fft.h"
+	"kiss_fftr.h"
+	<sndfile.h>
+	<mpg123.h>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\video\ofvideograbber.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+	"ofTypes.h"
+	"ofxiOSVideoGrabber.h"
+	"ofQuickTimeGrabber.h"
+	"ofQTKitGrabber.h"
+	"ofDirectShowGrabber.h"
+	"ofGstVideoGrabber.h"
+	"ofxAndroidVideoGrabber.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\video\ofquicktimegrabber.h
+	"ofConstants.h"
+	"ofQtUtils.h"
+	"ofTexture.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\video\ofqtutils.h
+	"ofConstants.h"
+	<QuickTime/QuickTime.h>
+	<CoreServices/CoreServices.h>
+	<ApplicationServices/ApplicationServices.h>
+	<QTML.h>
+	<FixMath.h>
+	<QuickTimeComponents.h>
+	<TextUtils.h>
+	<MediaHandlers.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\qtml.h
+	<MacTypes.h>
+	<MacMemory.h>
+	<MacWindows.h>
+	<OSUtils.h>
+	<Files.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\mactypes.h
+	<ConditionalMacros.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\conditionalmacros.h
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\macmemory.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\mixedmode.h
+	<MacTypes.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\macwindows.h
+	<MacTypes.h>
+	<Aliases.h>
+	<AppleEvents.h>
+	<Collections.h>
+	<Drag.h>
+	<Events.h>
+	<Menus.h>
+	<MixedMode.h>
+	<QDOffscreen.h>
+	<Quickdraw.h>
+	<TextCommon.h>
+	<Icons.h>
+	<MacErrors.h>
+
+1376262810 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\aliases.h
+	<MacTypes.h>
+	<AppleTalk.h>
+	<Files.h>
+
+1376262810 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\appletalk.h
+	<MacTypes.h>
+	<OSUtils.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\osutils.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<MacMemory.h>
+	<Patches.h>
+	<DateTimeUtils.h>
+	<Endian.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\patches.h
+	<MacTypes.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\datetimeutils.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\endian.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\files.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<OSUtils.h>
+	<TextCommon.h>
+	<UTCUtils.h>
+	<Finder.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\textcommon.h
+	<MacTypes.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\utcutils.h
+	<MacTypes.h>
+	<MacErrors.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\macerrors.h
+	<ConditionalMacros.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\finder.h
+	<MacTypes.h>
+
+1376262810 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\appleevents.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Notification.h>
+	<Events.h>
+	<AEDataModel.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\notification.h
+	<MacTypes.h>
+	<OSUtils.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\events.h
+	<OSUtils.h>
+	<Quickdraw.h>
+	<MacTypes.h>
+	<Endian.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\quickdraw.h
+	<Components.h>
+	<MacTypes.h>
+	<MixedMode.h>
+	<QuickdrawText.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\components.h
+	<MacErrors.h>
+	<MacTypes.h>
+	<MixedMode.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\quickdrawtext.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1376262810 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\aedatamodel.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\collections.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\drag.h
+	<MacTypes.h>
+	<Events.h>
+	<Files.h>
+	<AppleEvents.h>
+	<Quickdraw.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\menus.h
+	<MacTypes.h>
+	<Events.h>
+	<Quickdraw.h>
+	<Fonts.h>
+	<TextCommon.h>
+	<Processes.h>
+	<AppleEvents.h>
+	<Collections.h>
+	<MacErrors.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\fonts.h
+	<MacTypes.h>
+	<Files.h>
+	<Quickdraw.h>
+	<TextCommon.h>
+	<MacErrors.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\processes.h
+	<MacTypes.h>
+	<Events.h>
+	<Files.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\qdoffscreen.h
+	<MacErrors.h>
+	<Quickdraw.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\icons.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<Files.h>
+	<CodeFragments.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\codefragments.h
+	<MacTypes.h>
+	<Files.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\fixmath.h
+	<MacTypes.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\quicktimecomponents.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Components.h>
+	<ImageCompression.h>
+	<Movies.h>
+	<Quickdraw.h>
+	<Video.h>
+	<Sound.h>
+	<QuickTimeMusic.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\imagecompression.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<QDOffscreen.h>
+	<Components.h>
+	<StandardFile.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\standardfile.h
+	<MacTypes.h>
+	<Dialogs.h>
+	<Files.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\dialogs.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Events.h>
+	<MacWindows.h>
+	<TextEdit.h>
+	<Controls.h>
+	<MacErrors.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\textedit.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<MixedMode.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\controls.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<Menus.h>
+	<TextEdit.h>
+	<Drag.h>
+	<Icons.h>
+	<Collections.h>
+	<MacErrors.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\movies.h
+	<Quickdraw.h>
+	<Aliases.h>
+	<Events.h>
+	<Menus.h>
+	<Components.h>
+	<ImageCompression.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\video.h
+	<Quickdraw.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\sound.h
+	<MacTypes.h>
+	<Dialogs.h>
+	<Components.h>
+	<MixedMode.h>
+	<Movies.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\quicktimemusic.h
+	<Components.h>
+	<ImageCompression.h>
+	<Movies.h>
+	<Quickdraw.h>
+	<Video.h>
+	<MacMemory.h>
+	<Sound.h>
+	<Endian.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\textutils.h
+	<MacTypes.h>
+	<NumberFormatting.h>
+	<StringCompare.h>
+	<DateTimeUtils.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\numberformatting.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+	<IntlResources.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\intlresources.h
+	<MacTypes.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\stringcompare.h
+	<MacTypes.h>
+	<TextCommon.h>
+	<Script.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\script.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<IntlResources.h>
+	<Events.h>
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\quicktime\include\mediahandlers.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+	<Components.h>
+	<Movies.h>
+	<Sound.h>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\video\ofqtkitgrabber.h
+	"ofMain.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\video\ofdirectshowgrabber.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+	"videoInput.h"
+
+1376262812 c:\users\teru\of_v0.8.0_win_cb_release\libs\videoinput\include\videoinput.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<wchar.h>
+	<string>
+	<vector>
+	<windows.h>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\video\ofgstvideograbber.h
+	"ofGstUtils.h"
+	"ofTypes.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\video\ofgstutils.h
+	"ofConstants.h"
+	"ofConstants.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+	"ofTypes.h"
+	"ofEvents.h"
+	"ofThread.h"
+	<gst/gst.h>
+	<gst/gstpad.h>
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\video\ofvideoplayer.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofBaseTypes.h"
+	"ofTypes.h"
+	"ofGstVideoPlayer.h"
+	"ofQuickTimePlayer.h"
+	"ofQTKitPlayer.h"
+	"ofxiOSVideoPlayer.h"
+	"ofxAndroidVideoPlayer.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\video\ofgstvideoplayer.h
+	"ofGstUtils.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\video\ofquicktimeplayer.h
+	"ofConstants.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+	"ofQtUtils.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\video\ofqtkitplayer.h
+	"ofMain.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\3d\ofcamera.h
+	"ofRectangle.h"
+	"ofAppRunner.h"
+	"ofNode.h"
+
+1376262786 c:\users\teru\of_v0.8.0_win_cb_release\libs\openframeworks\3d\ofeasycam.h
+	"ofCamera.h"
+	"ofEvents.h"
+
+1376262812 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\icon.rc
+
+1396142228 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\main.cpp
+	"ofMain.h"
+	"testApp.h"
+
+1396274461 c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\testapp.h
+	"ofMain.h"
+	"libs/hzCursor.h"
+	"libs/hzSprite.h"
+	"libs/hzChara.h"
+	"libs/hzPlayer.h"
+	"libs/hzCommonUtil.h"
+	"libs/hzTextArea.h"
+	"ofxTrueTypeFontUC.h"
+	"ofxJSONElement.h"
+	<stdio.h>
+	"lua.hpp"
+	"../../../lib/TmxParser/Tmx.h"
+
+1394346741 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\cursor.cpp
+	"Cursor.h"
+
+1394346745 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\cursor.h
+	"ofMain.h"
+
+1394346745 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hzcursor.h
+	"ofMain.h"
+
+1396266908 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\testapp.cpp
+	"testApp.h"
+
+1394346902 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hzcursor.cpp
+	"hzCursor.h"
+
+1394363715 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\sprite.h
+	"ofMain.h"
+
+1394367282 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hzsprite.h
+	"ofMain.h"
+
+1395459129 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hzsprite.cpp
+	"hzSprite.h"
+
+1395485054 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hzchara.h
+	"hzCharaBase.h"
+	"lua.hpp"
+
+1395484754 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hzchara.cpp
+	"hzChara.h"
+	"testApp.h"
+
+1395535168 source:c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxtruetypefontuc\src\ofxtruetypefontuc.cpp
+	"ofxTrueTypeFontUC.h"
+	"ft2build.h"
+	"freetype2/freetype/freetype.h"
+	"freetype2/freetype/ftglyph.h"
+	"freetype2/freetype/ftoutln.h"
+	"freetype2/freetype/fttrigon.h"
+	<fontconfig/fontconfig.h>
+	<algorithm>
+	"ofUtils.h"
+	"ofGraphics.h"
+	"ofAppRunner.h"
+	"ofPoint.h"
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofMesh.h"
+	"Poco/TextConverter.h"
+	"Poco/UTF8Encoding.h"
+	<set>
+	<map>
+
+1394456465 c:\users\teru\of_v0.8.0_win_cb_release\addons\ofxtruetypefontuc\src\ofxtruetypefontuc.h
+	<vector>
+	"ofRectangle.h"
+	"ofPath.h"
+
+1376262784 c:\users\teru\of_v0.8.0_win_cb_release\libs\freetype\include\ft2build.h
+	<freetype/config/ftheader.h>
+
+1376262784 c:\users\teru\of_v0.8.0_win_cb_release\libs\freetype\include\freetype2\freetype\config\ftheader.h
+
+1376262784 c:\users\teru\of_v0.8.0_win_cb_release\libs\freetype\include\freetype2\freetype\freetype.h
+	<ft2build.h>
+
+1376262784 c:\users\teru\of_v0.8.0_win_cb_release\libs\freetype\include\freetype2\freetype\ftglyph.h
+	<ft2build.h>
+
+1376262784 c:\users\teru\of_v0.8.0_win_cb_release\libs\freetype\include\freetype2\freetype\ftoutln.h
+	<ft2build.h>
+
+1376262784 c:\users\teru\of_v0.8.0_win_cb_release\libs\freetype\include\freetype2\freetype\fttrigon.h
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\textconverter.h
+	"Poco/Foundation.h"
+
+1376262792 c:\users\teru\of_v0.8.0_win_cb_release\libs\poco\include\poco\utf8encoding.h
+	"Poco/Foundation.h"
+	"Poco/TextEncoding.h"
+
+1394457762 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hzcommonutil.cpp
+	"hzCommonUtil.h"
+
+1385207468 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hzcommonutil.h
+	<iostream>
+	<stdexcept>
+	"ofMain.h"
+
+1103723584 c:\lib\lua\include\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1334884706 c:\lib\lua\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1340692106 c:\lib\lua\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+
+1323306696 c:\lib\lua\include\lualib.h
+	"lua.h"
+
+1322542508 c:\lib\lua\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1395485575 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hzcharabase.h
+	"ofMain.h"
+	"hzSprite.h"
+	"lua.hpp"
+
+1395485692 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hzplayer.h
+	"hzCharaBase.h"
+	"hzCursor.h"
+
+1395484459 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hzcharabase.cpp
+	"hzCharaBase.h"
+	"testApp.h"
+
+1395485500 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hzplayer.cpp
+	"hzPlayer.h"
+
+1395659491 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hztextarea.h
+	"ofMain.h"
+	"ofxTrueTypeFontUC.h"
+
+1395659662 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\hztextarea.cpp
+	"hzTextArea.h"
+
+1396142958 c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hzcursor.h
+	"ofMain.h"
+
+1394367282 c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hzsprite.h
+	"ofMain.h"
+
+1396164812 c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hzchara.h
+	"hzCharaBase.h"
+	"lua.hpp"
+
+1396143638 c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hzcharabase.h
+	"ofMain.h"
+	"hzSprite.h"
+	"lua.hpp"
+
+1396143649 c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hzplayer.h
+	"hzCharaBase.h"
+	"hzCursor.h"
+
+1396164749 c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hzcommonutil.h
+	<iostream>
+	<stdexcept>
+	"ofMain.h"
+	"lua.hpp"
+
+1395659491 c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hztextarea.h
+	"ofMain.h"
+	"ofxTrueTypeFontUC.h"
+
+1396165378 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hzchara.cpp
+	"hzChara.h"
+	"testApp.h"
+	"libs/hzCommonUtil.h"
+
+1396143672 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hzcharabase.cpp
+	"hzCharaBase.h"
+	"testApp.h"
+
+1396164737 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hzcommonutil.cpp
+	"hzCommonUtil.h"
+
+1396142971 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hzcursor.cpp
+	"hzCursor.h"
+
+1396143742 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hzplayer.cpp
+	"hzPlayer.h"
+
+1395459129 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hzsprite.cpp
+	"hzSprite.h"
+
+1395659662 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\myapps\2dgame\src\libs\hztextarea.cpp
+	"hzTextArea.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmx.h
+	"TmxMap.h"
+	"TmxTileset.h"
+	"TmxTile.h"
+	"TmxImage.h"
+	"TmxLayer.h"
+	"TmxObject.h"
+	"TmxObjectGroup.h"
+	"TmxEllipse.h"
+	"TmxPolygon.h"
+	"TmxPolyline.h"
+	"TmxPropertySet.h"
+	"TmxUtil.h"
+	"TmxImageLayer.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxmap.h
+	<vector>
+	<string>
+	"TmxPropertySet.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxpropertyset.h
+	<map>
+	<string>
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxtileset.h
+	<string>
+	<vector>
+	"TmxPropertySet.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxtile.h
+	"TmxPropertySet.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmximage.h
+	<string>
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxlayer.h
+	<string>
+	"TmxPropertySet.h"
+	"TmxMapTile.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxmaptile.h
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxobject.h
+	<string>
+	"TmxPropertySet.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxobjectgroup.h
+	<string>
+	<vector>
+	"TmxPropertySet.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxellipse.h
+	<vector>
+	"TmxPoint.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxpoint.h
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxpolygon.h
+	<vector>
+	"TmxPoint.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxpolyline.h
+	<vector>
+	"TmxPoint.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmxutil.h
+	<string>
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tmximagelayer.h
+	<string>
+	<vector>
+	"TmxPropertySet.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\base64\base64.cpp
+	"base64.h"
+	<iostream>
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\base64\base64.h
+	<string>
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tmxellipse.cpp
+	<tinyxml.h>
+	"TmxEllipse.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tmximage.cpp
+	<tinyxml.h>
+	"TmxImage.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tmximagelayer.cpp
+	<tinyxml.h>
+	"TmxImageLayer.h"
+	"TmxImage.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tmxmap.cpp
+	<tinyxml.h>
+	<stdio.h>
+	"TmxMap.h"
+	"TmxTileset.h"
+	"TmxLayer.h"
+	"TmxObjectGroup.h"
+	"TmxImageLayer.h"
+	<SDL.h>
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tmxobject.cpp
+	<tinyxml.h>
+	"TmxObject.h"
+	"TmxPolygon.h"
+	"TmxPolyline.h"
+	"TmxEllipse.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tmxobjectgroup.cpp
+	<tinyxml.h>
+	"TmxObjectGroup.h"
+	"TmxObject.h"
+
+1396267875 source:c:\lib\tmx-parser-read-only\tmxparser\tmxlayer.cpp
+	<tinyxml.h>
+	<zlib.h>
+	<stdlib.h>
+	<stdio.h>
+	"TmxLayer.h"
+	"TmxUtil.h"
+	"TmxMap.h"
+	"TmxTileset.h"
+	"strdup.h"
+
+1396267881 source:c:\lib\tmx-parser-read-only\tmxparser\tmxpolygon.cpp
+	<tinyxml.h>
+	"TmxPolygon.h"
+	"strdup.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tmxpropertyset.cpp
+	<tinyxml.h>
+	"TmxPropertySet.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tmxtile.cpp
+	<tinyxml.h>
+	"TmxTile.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tmxtileset.cpp
+	<tinyxml.h>
+	"TmxTileset.h"
+	"TmxImage.h"
+	"TmxTile.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\tmxutil.cpp
+	<stdlib.h>
+	<zlib.h>
+	"TmxUtil.h"
+	"base64/base64.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\adler32.c
+	"zutil.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\zlib\zutil.h
+	"zlib.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<alloc.h>
+	<malloc.h>
+	<malloc.h>
+	<unix.h>
+	<stdio.h>
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\zlib\zlib.h
+	"zconf.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\zlib\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\compress.c
+	"zlib.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\crc32.c
+	<stdio.h>
+	"zutil.h"
+	<limits.h>
+	"crc32.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\zlib\crc32.h
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\deflate.c
+	"deflate.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\zlib\deflate.h
+	"zutil.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\gzclose.c
+	"gzguts.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\zlib\gzguts.h
+	<stdio.h>
+	"zlib.h"
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	<fcntl.h>
+	<io.h>
+	<windows.h>
+	<errno.h>
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\gzlib.c
+	"gzguts.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\gzread.c
+	"gzguts.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\gzwrite.c
+	"gzguts.h"
+	<stdarg.h>
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\infback.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\zlib\inftrees.h
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\zlib\inflate.h
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\zlib\inffast.h
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\zlib\inffixed.h
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\inffast.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\inflate.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+	<stdio.h>
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\inftrees.c
+	"zutil.h"
+	"inftrees.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\trees.c
+	"deflate.h"
+	<ctype.h>
+	"trees.h"
+	<stdio.h>
+
+1396178717 c:\lib\tmx-parser-read-only\tmxparser\zlib\trees.h
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\uncompr.c
+	"zlib.h"
+
+1396178717 source:c:\lib\tmx-parser-read-only\tmxparser\zlib\zutil.c
+	"zutil.h"
+
+1396267560 c:\lib\tmx-parser-read-only\tmxparser\strdup.h
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\base64\base64.cpp
+	"base64.h"
+	<iostream>
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\base64\base64.h
+	<string>
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxellipse.cpp
+	<tinyxml.h>
+	"TmxEllipse.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxellipse.h
+	<vector>
+	"TmxPoint.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxpoint.h
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmximage.cpp
+	<tinyxml.h>
+	"TmxImage.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmximage.h
+	<string>
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmximagelayer.cpp
+	<tinyxml.h>
+	"TmxImageLayer.h"
+	"TmxImage.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmximagelayer.h
+	<string>
+	<vector>
+	"TmxPropertySet.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxpropertyset.h
+	<map>
+	<string>
+
+1396268512 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxlayer.cpp
+	<tinyxml.h>
+	<zlib.h>
+	<stdlib.h>
+	<stdio.h>
+	"TmxLayer.h"
+	"TmxUtil.h"
+	"TmxMap.h"
+	"TmxTileset.h"
+	"strdup.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxlayer.h
+	<string>
+	"TmxPropertySet.h"
+	"TmxMapTile.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxmaptile.h
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxutil.h
+	<string>
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxmap.h
+	<vector>
+	<string>
+	"TmxPropertySet.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxtileset.h
+	<string>
+	<vector>
+	"TmxPropertySet.h"
+
+1396268587 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\strdup.h
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxmap.cpp
+	<tinyxml.h>
+	<stdio.h>
+	"TmxMap.h"
+	"TmxTileset.h"
+	"TmxLayer.h"
+	"TmxObjectGroup.h"
+	"TmxImageLayer.h"
+	<SDL.h>
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxobjectgroup.h
+	<string>
+	<vector>
+	"TmxPropertySet.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxobject.cpp
+	<tinyxml.h>
+	"TmxObject.h"
+	"TmxPolygon.h"
+	"TmxPolyline.h"
+	"TmxEllipse.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxobject.h
+	<string>
+	"TmxPropertySet.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxpolygon.h
+	<vector>
+	"TmxPoint.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxpolyline.h
+	<vector>
+	"TmxPoint.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxobjectgroup.cpp
+	<tinyxml.h>
+	"TmxObjectGroup.h"
+	"TmxObject.h"
+
+1396268513 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxpolygon.cpp
+	<tinyxml.h>
+	"TmxPolygon.h"
+	"strdup.h"
+
+1396268515 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxpolyline.cpp
+	<tinyxml.h>
+	"TmxPolyline.h"
+	"strdup.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxpropertyset.cpp
+	<tinyxml.h>
+	"TmxPropertySet.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxtile.cpp
+	<tinyxml.h>
+	"TmxTile.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxtile.h
+	"TmxPropertySet.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxtileset.cpp
+	<tinyxml.h>
+	"TmxTileset.h"
+	"TmxImage.h"
+	"TmxTile.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmxutil.cpp
+	<stdlib.h>
+	<zlib.h>
+	"TmxUtil.h"
+	"base64/base64.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\adler32.c
+	"zutil.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\zutil.h
+	"zlib.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<alloc.h>
+	<malloc.h>
+	<malloc.h>
+	<unix.h>
+	<stdio.h>
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\zlib.h
+	"zconf.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\compress.c
+	"zlib.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\crc32.c
+	<stdio.h>
+	"zutil.h"
+	<limits.h>
+	"crc32.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\crc32.h
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\deflate.c
+	"deflate.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\deflate.h
+	"zutil.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\gzclose.c
+	"gzguts.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\gzguts.h
+	<stdio.h>
+	"zlib.h"
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	<fcntl.h>
+	<io.h>
+	<windows.h>
+	<errno.h>
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\gzlib.c
+	"gzguts.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\gzread.c
+	"gzguts.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\gzwrite.c
+	"gzguts.h"
+	<stdarg.h>
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\infback.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\inftrees.h
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\inflate.h
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\inffast.h
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\inffixed.h
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\inffast.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\inflate.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+	<stdio.h>
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\inftrees.c
+	"zutil.h"
+	"inftrees.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\trees.c
+	"deflate.h"
+	<ctype.h>
+	"trees.h"
+	<stdio.h>
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\trees.h
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\uncompr.c
+	"zlib.h"
+
+1396178717 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\zlib\zutil.c
+	"zutil.h"
+
+1396178717 c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\tmx.h
+	"TmxMap.h"
+	"TmxTileset.h"
+	"TmxTile.h"
+	"TmxImage.h"
+	"TmxLayer.h"
+	"TmxObject.h"
+	"TmxObjectGroup.h"
+	"TmxEllipse.h"
+	"TmxPolygon.h"
+	"TmxPolyline.h"
+	"TmxPropertySet.h"
+	"TmxUtil.h"
+	"TmxImageLayer.h"
+
+1396268811 source:c:\users\teru\of_v0.8.0_win_cb_release\apps\lib\tmxparser\strdup.cpp
+	"strdup.h"
+	<string.h>
+	<stdlib.h>
+

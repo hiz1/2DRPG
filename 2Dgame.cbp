@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="2Dgame" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="addons\;src\;addons\ofxJSON\libs\jsoncpp\include\json\;addons\ofxJSON\libs\jsoncpp\src\;addons\ofxTrueTypeFontUC\src\;addons\ofxXmlSettings\src\;addons\ofxXmlSettings\libs\;addons\ofxJSON\src\;" />
+		<Build>
+			<Target title="release">
+				<Option output="bin/$(PROJECT_NAME)" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin" />
+				<Option object_output="obj/Release" />
+				<Option external_deps="../../../libs/openFrameworksCompiled/lib/win_cb/openFrameworks.lib;" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option projectLinkerOptionsRelation="2" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="../../../libs/openFrameworksCompiled/lib/win_cb/openFrameworks.lib" />
+				</Linker>
+			</Target>
+			<Target title="debug">
+				<Option output="bin/$(PROJECT_NAME)_DEBUG" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin" />
+				<Option object_output="obj/Debug/" />
+				<Option external_deps="../../../libs/openFrameworksCompiled/lib/win_cb/openFrameworksDebug.lib;" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option projectLinkerOptionsRelation="2" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="../../../libs/openFrameworksCompiled/lib/win_cb/openFrameworksDebug.lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wno-multichar" />
+			<Add directory="../../../libs/glu/include" />
+			<Add directory="../../../libs/freetype/include" />
+			<Add directory="../../../libs/freetype/include/freetype2" />
+			<Add directory="../../../libs/FreeImage/include" />
+			<Add directory="../../../libs/quicktime/include" />
+			<Add directory="../../../libs/rtAudio/include" />
+			<Add directory="../../../libs/fmodex/include" />
+			<Add directory="../../../libs/videoInput/include" />
+			<Add directory="../../../libs/glew/include" />
+			<Add directory="../../../libs/glut/include" />
+			<Add directory="../../../libs/glfw/include" />
+			<Add directory="../../../libs/openFrameworks" />
+			<Add directory="../../../libs/openFrameworks/3d" />
+			<Add directory="../../../libs/openFrameworks/app" />
+			<Add directory="../../../libs/openFrameworks/communication" />
+			<Add directory="../../../libs/openFrameworks/events" />
+			<Add directory="../../../libs/openFrameworks/gl" />
+			<Add directory="../../../libs/openFrameworks/graphics" />
+			<Add directory="../../../libs/openFrameworks/math" />
+			<Add directory="../../../libs/openFrameworks/sound" />
+			<Add directory="../../../libs/openFrameworks/types" />
+			<Add directory="../../../libs/openFrameworks/utils" />
+			<Add directory="../../../libs/openFrameworks/video" />
+			<Add directory="../../../libs/poco/include" />
+			<Add directory="../../../libs/tess2/include" />
+			<Add directory="../../../libs/cairo/include/cairo" />
+			<Add directory="src" />
+			<Add directory="../../../addons/ofxXmlSettings/libs" />
+			<Add directory="../../../addons/ofxXmlSettings/src" />
+			<Add directory="../../../addons/ofxJSON/libs" />
+			<Add directory="../../../addons/ofxJSON/src" />
+			<Add directory="../../../addons/ofxJSON/libs/jsoncpp" />
+			<Add directory="../../../addons/ofxJSON/libs/jsoncpp/include" />
+			<Add directory="../../../addons/ofxJSON/libs/jsoncpp/include/json" />
+			<Add directory="../../../addons/ofxJSON/libs/jsoncpp/src" />
+			<Add directory="../../../addons/ofxTrueTypeFontUC/libs" />
+			<Add directory="../../../addons/ofxTrueTypeFontUC/src" />
+			<Add directory="C:/lib/lua/include" />
+		</Compiler>
+		<Linker>
+			<Add library="..\..\..\libs\FreeImage\lib\win_cb\FreeImage.lib" />
+			<Add library="..\..\..\libs\rtAudio\lib\win_cb\librtaudio.a" />
+			<Add library="..\..\..\libs\quicktime\lib\win_cb\qtmlClient.lib" />
+			<Add library="..\..\..\libs\cairo\lib\win_cb\libcairo.a" />
+			<Add library="..\..\..\libs\cairo\lib\win_cb\libpixman-1.a" />
+			<Add library="..\..\..\libs\freetype\lib\win_cb\libfreetype.a" />
+			<Add library="..\..\..\libs\glut\lib\win_cb\libglut.a" />
+			<Add library="..\..\..\libs\glfw\lib\win_cb\libglfw3.a" />
+			<Add library="..\..\..\libs\videoInput\lib\win_cb\videoInputLib.a" />
+			<Add library="..\..\..\libs\fmodex\lib\win_cb\libfmodex.a" />
+			<Add library="..\..\..\libs\glew\lib\win_cb\glew32s.lib" />
+			<Add library="..\..\..\libs\glu\lib\win_cb\glu32.lib" />
+			<Add library="..\..\..\libs\poco\lib\win_cb\libPocoNetSSL.a" />
+			<Add library="..\..\..\libs\poco\lib\win_cb\libPocoCrypto.a" />
+			<Add library="..\..\..\libs\poco\lib\win_cb\libPocoNet.a" />
+			<Add library="..\..\..\libs\poco\lib\win_cb\libPocoUtil.a" />
+			<Add library="..\..\..\libs\poco\lib\win_cb\libPocoXML.a" />
+			<Add library="..\..\..\libs\poco\lib\win_cb\libPocoFoundation.a" />
+			<Add library="..\..\..\libs\openssl\lib\win_cb\libssl.a" />
+			<Add library="..\..\..\libs\openssl\lib\win_cb\libcrypto.a" />
+			<Add library="..\..\..\libs\tess2\lib\win_cb\libtess2.a" />
+			<Add library="opengl32" />
+			<Add library="gdi32" />
+			<Add library="msimg32" />
+			<Add library="glu32" />
+			<Add library="dsound" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add library="strmbase" />
+			<Add library="strmiids" />
+			<Add library="z" />
+			<Add library="uuid" />
+			<Add library="ole32" />
+			<Add library="oleaut32" />
+			<Add library="setupapi" />
+			<Add library="wsock32" />
+			<Add library="ws2_32" />
+			<Add library="Iphlpapi" />
+			<Add library="Comdlg32" />
+			<Add library="C:\lib\lua\lib\liblua52.a" />
+		</Linker>
+		<ExtraCommands>
+			<Add after='xcopy /e /i /y &quot;$(PROJECT_DIR)..\..\..\export\win_cb\*.dll&quot;  &quot;$(PROJECT_DIR)bin&quot;' />
+			<Add after='cmd /c if not exist &quot;$(PROJECT_DIR)bin/data&quot; mkdir &quot;$(PROJECT_DIR)bin/data&quot;' />
+			<Mode after="always" />
+		</ExtraCommands>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/include/json/autolink.h">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/include/json" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/include/json/config.h">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/include/json" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/include/json/features.h">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/include/json" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/include/json/forwards.h">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/include/json" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/include/json/json.h">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/include/json" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/include/json/reader.h">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/include/json" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/include/json/value.h">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/include/json" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/include/json/writer.h">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/include/json" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/src/json_batchallocator.h">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/src" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/src/json_reader.cpp">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/src" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/src/json_tool.h">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/src" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/src/json_value.cpp">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/src" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/libs/jsoncpp/src/json_writer.cpp">
+			<Option virtualFolder="addons/ofxJSON/libs/jsoncpp/src" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/src/ofxJSONElement.cpp">
+			<Option virtualFolder="addons/ofxJSON/src" />
+		</Unit>
+		<Unit filename="../../../addons/ofxJSON/src/ofxJSONElement.h">
+			<Option virtualFolder="addons/ofxJSON/src" />
+		</Unit>
+		<Unit filename="../../../addons/ofxTrueTypeFontUC/src/ofxTrueTypeFontUC.cpp">
+			<Option virtualFolder="addons/ofxTrueTypeFontUC/src" />
+		</Unit>
+		<Unit filename="../../../addons/ofxTrueTypeFontUC/src/ofxTrueTypeFontUC.h">
+			<Option virtualFolder="addons/ofxTrueTypeFontUC/src" />
+		</Unit>
+		<Unit filename="../../../addons/ofxXmlSettings/libs/tinyxml.cpp">
+			<Option virtualFolder="addons/ofxXmlSettings/libs" />
+		</Unit>
+		<Unit filename="../../../addons/ofxXmlSettings/libs/tinyxml.h">
+			<Option virtualFolder="addons/ofxXmlSettings/libs" />
+		</Unit>
+		<Unit filename="../../../addons/ofxXmlSettings/libs/tinyxmlerror.cpp">
+			<Option virtualFolder="addons/ofxXmlSettings/libs" />
+		</Unit>
+		<Unit filename="../../../addons/ofxXmlSettings/libs/tinyxmlparser.cpp">
+			<Option virtualFolder="addons/ofxXmlSettings/libs" />
+		</Unit>
+		<Unit filename="../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp">
+			<Option virtualFolder="addons/ofxXmlSettings/src" />
+		</Unit>
+		<Unit filename="../../../addons/ofxXmlSettings/src/ofxXmlSettings.h">
+			<Option virtualFolder="addons/ofxXmlSettings/src" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/Tmx.h" />
+		<Unit filename="../../lib/TmxParser/TmxEllipse.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxEllipse.h" />
+		<Unit filename="../../lib/TmxParser/TmxImage.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxImage.h" />
+		<Unit filename="../../lib/TmxParser/TmxImageLayer.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxImageLayer.h" />
+		<Unit filename="../../lib/TmxParser/TmxLayer.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxLayer.h" />
+		<Unit filename="../../lib/TmxParser/TmxMap.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxMap.h" />
+		<Unit filename="../../lib/TmxParser/TmxMapTile.h" />
+		<Unit filename="../../lib/TmxParser/TmxObject.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxObject.h" />
+		<Unit filename="../../lib/TmxParser/TmxObjectGroup.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxObjectGroup.h" />
+		<Unit filename="../../lib/TmxParser/TmxPoint.h" />
+		<Unit filename="../../lib/TmxParser/TmxPolygon.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxPolygon.h" />
+		<Unit filename="../../lib/TmxParser/TmxPolyline.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxPolyline.h" />
+		<Unit filename="../../lib/TmxParser/TmxPropertySet.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxPropertySet.h" />
+		<Unit filename="../../lib/TmxParser/TmxTile.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxTile.h" />
+		<Unit filename="../../lib/TmxParser/TmxTileset.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxTileset.h" />
+		<Unit filename="../../lib/TmxParser/TmxUtil.cpp" />
+		<Unit filename="../../lib/TmxParser/TmxUtil.h" />
+		<Unit filename="../../lib/TmxParser/base64/base64.cpp" />
+		<Unit filename="../../lib/TmxParser/base64/base64.h" />
+		<Unit filename="../../lib/TmxParser/strdup.cpp" />
+		<Unit filename="../../lib/TmxParser/strdup.h" />
+		<Unit filename="../../lib/TmxParser/zlib/adler32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/compress.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/crc32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/crc32.h" />
+		<Unit filename="../../lib/TmxParser/zlib/deflate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/deflate.h" />
+		<Unit filename="../../lib/TmxParser/zlib/gzclose.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/gzguts.h" />
+		<Unit filename="../../lib/TmxParser/zlib/gzlib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/gzread.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/gzwrite.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/infback.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/inffast.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/inffast.h" />
+		<Unit filename="../../lib/TmxParser/zlib/inffixed.h" />
+		<Unit filename="../../lib/TmxParser/zlib/inflate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/inflate.h" />
+		<Unit filename="../../lib/TmxParser/zlib/inftrees.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/inftrees.h" />
+		<Unit filename="../../lib/TmxParser/zlib/trees.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/trees.h" />
+		<Unit filename="../../lib/TmxParser/zlib/uncompr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/zconf.h" />
+		<Unit filename="../../lib/TmxParser/zlib/zlib.h" />
+		<Unit filename="../../lib/TmxParser/zlib/zutil.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../lib/TmxParser/zlib/zutil.h" />
+		<Unit filename="icon.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="src/libs/hzChara.cpp" />
+		<Unit filename="src/libs/hzChara.h" />
+		<Unit filename="src/libs/hzCharaBase.cpp" />
+		<Unit filename="src/libs/hzCharaBase.h" />
+		<Unit filename="src/libs/hzCommonUtil.cpp" />
+		<Unit filename="src/libs/hzCommonUtil.h" />
+		<Unit filename="src/libs/hzCursor.cpp" />
+		<Unit filename="src/libs/hzCursor.h" />
+		<Unit filename="src/libs/hzPlayer.cpp" />
+		<Unit filename="src/libs/hzPlayer.h" />
+		<Unit filename="src/libs/hzSprite.cpp" />
+		<Unit filename="src/libs/hzSprite.h" />
+		<Unit filename="src/libs/hzTextArea.cpp" />
+		<Unit filename="src/libs/hzTextArea.h" />
+		<Unit filename="src/main.cpp">
+			<Option virtualFolder="src" />
+		</Unit>
+		<Unit filename="src/testApp.cpp">
+			<Option virtualFolder="src" />
+		</Unit>
+		<Unit filename="src/testApp.h">
+			<Option virtualFolder="src" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
